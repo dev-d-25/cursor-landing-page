@@ -2,7 +2,8 @@
 
 A modern, responsive landing page clone of cursor built with HTML and CSS.
 
-**Live Demo:** [https://fluffy-pudding-a57283.netlify.app/](https://fluffy-pudding-a57283.netlify.app/)
+**Live Demo:** [Cursor Page](https://cursor-page.netlify.app/)
+
 
 ---
 ### Some Notes for Evaluator
